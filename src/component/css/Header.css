@@ -1,0 +1,35 @@
+.Header {
+  text-align: center;
+}
+
+.Header-logo-beer {
+  height: 80px;
+}
+
+.Header-header {
+  background-color: #ff9c08;
+  height: 170px;
+  padding: 20px;
+  color: white;
+}
+
+.Menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.Menu li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.Menu li a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+.Menu li a:hover{
+  color: #eee;
+}
+

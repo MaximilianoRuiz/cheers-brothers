@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Com",
+				"CommunityModule\talias"
+			],
+			[
+				"p",
+				"profile.component\tscript"
+			],
+			[
+				"CommunityM",
+				"CommunityModule\tclass"
+			],
+			[
+				"co",
+				"community-routing.module\tscript"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"c",
+				"container-fluid"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Comm",
+				"CommunityComponent\talias"
+			],
+			[
+				"sty",
+				"styleUrls\tproperty"
+			],
+			[
+				"set",
+				"setInterval\tfunction"
+			],
+			[
+				"is",
+				"isLoginSuccess\tproperty"
+			],
+			[
+				"ti",
+				"this\tkeyword"
+			],
+			[
+				"t",
+				"this\tkeyword"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"border-ri",
+				"border-right-width"
+			],
+			[
+				"borderb",
+				"border-bottom-width"
+			],
+			[
+				"borderto",
+				"border-top-width"
+			],
+			[
+				"Lo",
+				"LoginModule\talias"
+			],
+			[
+				"log",
+				"login.module\tscript"
+			],
+			[
+				"u",
+				"templateUrl\tproperty"
+			],
+			[
+				"L",
+				"LoginComponent\talias"
+			],
+			[
+				"l",
+				"login.module\tscript"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import React, { Component } from 'react';\nimport './css/Content.css';\n\nclass Content extends Component {\n  render() {\n    return (\n      <div className=\"Content\">\n          <h3 className=\"Header-title\">Muy pronto...</h3>\n      </div>\n    );\n  }\n}\ndddd\nd\n\nexport default Content;",
+			"file": "src/component/Content.js",
+			"file_size": 284,
+			"file_write_time": 131572544804830161,
+			"settings":
+			{
+				"buffer_size": 278,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "remov",
+		"selected_items":
+		[
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitg",
+				"GitGutter: Enable for View"
+			],
+			[
+				"gitt",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"control in",
+				"Package Control: Install Package"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"gitdif",
+				"Git: Diff Current File"
+			],
+			[
+				"git lin",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"GIT",
+				"Git: Toggle Annotations"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"PACAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"TypeScipt",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/node_modules",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/public",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component"
+	],
+	"file_history":
+	[
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/Header.js",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/Content.js",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/index.js",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/App.js",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/data/menu.js",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/User/TypeScriptReact.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Users/Maxi/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/css/Content.css",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/css/Header.css",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/node_modules/react-scripts/template/src/App.js",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/public/index.html",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/App.js",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/logo.svg",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/images/beer.svg",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/component/css/App.css",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/registerServiceWorker.js",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/App.test.js",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/index.css",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/beer.svg",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/src/App.css",
+		"/C/Users/Maxi/Desktop/react js/cheers-brothers/public/favicon.ico",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/community-routing.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/community.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/content.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/app-routing.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/app.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/app.component.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/community.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/download.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/profile.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/community.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/app.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/systemjs.config.js",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/tslint.json",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/profile/profile.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/profile/profile.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/profile/profile.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/profile/profile.css",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/home/home.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/community/community.css",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/home/home.css",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/app.component.css",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/home/home.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/home/home.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/index.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/login/login.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/login/login.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/login/login.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/login/login.css",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/arquitectura/app/main.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/app.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/login/login.module.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/login/login.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/login/login.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/app.component.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/index.html",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/main.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/styles.css",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/app.component.spec.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/tsconfig.json",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/systemjs.config.js",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/hola.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/dist/hola.js.map",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/ts/timer.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/hola.js.map",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/map/timer.js.map",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/timer.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/ts/timer.js",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/ts/timer.js.map",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/loco.ts",
+		"/C/Users/Maxi/WebstormProjects/ArquetectProject/quickstart-master/app/app.component.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+			"C:\\Users\\Maxi\\Desktop\\react js\\cheers-brothers\\node_modules",
+			"",
+			"C:\\Users\\Maxi\\Desktop\\react js\\cheers-brothers\\public,C:\\Users\\Maxi\\Desktop\\react js\\cheers-brothers\\src",
+			"C:\\Users\\Maxi\\Desktop\\react js\\cheers-brothers\\public",
+			"",
+			"C:\\Users\\Maxi\\WebstormProjects\\ArquetectProject\\arquitectura\\app",
+			"C:\\Users\\Maxi\\WebstormProjects\\ArquetectProject\\arquitectura",
+			"C:\\Users\\Maxi\\WebstormProjects\\ArquetectProject\\quickstart-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GitGutter",
+			"git_g",
+			"gitg",
+			"git_gutter_enabled",
+			"];",
+			"';\n",
+			"default",
+			"}",
+			"default App",
+			"index.html",
+			"index.js",
+			"index.html",
+			"./registerServiceWorker",
+			"registerServiceWorker",
+			"profile",
+			"CommunityModule",
+			"zone",
+			"CommunityRoutingModule",
+			"}",
+			"sm",
+			"login",
+			";\">",
+			"baseDir:",
+			"base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/component/Content.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"git_annotation_temp_buffer": "c:\\users\\maxi\\appdata\\local\\temp\\git_annotations_2om8er",
+							"git_annotation_temp_head": "c:\\users\\maxi\\appdata\\local\\temp\\git_annotations_xp7ew9",
+							"git_gutter_enable": true,
+							"git_gutter_is_enabled": false,
+							"live_git_annotations": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 336.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
